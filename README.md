@@ -12,13 +12,13 @@ This project displays a QR code component using HTML and CSS.
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/Screenshot.png)
 
 Screenshot of the QR code component displayed in the browser.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://rabin-frontendmentor-qr-component.netlify.app/
 
 ## My process
 
@@ -57,4 +57,4 @@ In future projects I want to continue focusing on:
 ## Author
 
 - Github - [rabin-thami](https://github.com/rabin-thami)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@rabin-thami](https://www.frontendmentor.io/profile/rabin-thami)
